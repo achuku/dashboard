@@ -43,7 +43,12 @@
 .searchbar {
     grid-column: 1 ;
     grid-row: 1;
+    padding: 20px;
     background-color:darkgreen;
+}
+
+#search {
+    border-radius: 15px;
 }
 
 .salutation {
