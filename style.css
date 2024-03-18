@@ -29,6 +29,7 @@
 
 .navigation li {
     display:grid;
+    padding: 10px;
 }
 
 .header {
