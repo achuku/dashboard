@@ -24,6 +24,11 @@
 .navigation {
     display: grid;
     grid-row: 2 / 3;
+    padding: 5px 0 5px 30px;
+}
+
+.navigation li {
+    display:grid;
 }
 
 .header {
