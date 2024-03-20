@@ -13,7 +13,7 @@
 
 .sidebar {
     background-color: deepskyblue;
-    grid-row: 1 / 3;
+    grid-row: 1 / 2;
     grid-template-rows: 1fr 4fr;
 }
 
