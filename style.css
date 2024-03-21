@@ -116,9 +116,13 @@ p{
     border: 1px solid white;
     border-radius: 8px;
     background-color: white;
-    padding: 0 0 20px 20px;
+    padding: 0 0 10px 20px;
 }
 
 .newsitem {
     padding: 20px 0 0 0;
+}
+
+.trend {
+   padding: 20px 0 10px 20px;   
 }
