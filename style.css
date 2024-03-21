@@ -64,6 +64,7 @@
     grid-row: 1;
     grid-column: 2;
     background-color: cadetblue;
+    padding: 20px 0 0 60px;
 }
 
 .buttons {
