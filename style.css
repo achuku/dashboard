@@ -94,8 +94,16 @@ button {
    
 }
 
-.project, p{
-    padding: 20px;
+.project{ 
+border: 1px solid white;
+border-radius: 8px;
+background-color: white;
+padding: 20px;
+}
+
+
+p{
+    padding: 0 20px 20px 0;
 }
 
 .announcements {
