@@ -80,14 +80,17 @@
 .buttons {
     grid-row: 2;
     grid-column: 2;
+    display: flex;
+    flex-direction: row;
+    justify-content: space-around;
     padding: 20px;
     background-color: crimson;
 }
 
 button {
     background-color: deepskyblue;
-    border-radius: 15px;
-    padding: 5px 20px 5px 20px;
+    border-radius: 25px;
+    padding: 5px 25px 5px 25px;
 }
 
 .main-content {
