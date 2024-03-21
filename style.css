@@ -109,9 +109,12 @@ p{
 .announcements {
     grid-column: 3;
     background-color: coral;
+    padding: 20px;
 }
 
-.trending {
-    grid-column: 3;
-    background-color:cornflowerblue;
+.news, .trends{
+    border: 1px solid white;
+    border-radius: 8px;
+    background-color: white;
+    padding: 20px;
 }
