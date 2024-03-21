@@ -69,8 +69,9 @@
     grid-row: 1;
     grid-column: 2;
     display: flex;
+    justify-content: flex-end;
     background-color: cadetblue;
-    padding: 20px 0 0 20px;
+    padding: 20px 40px 0 20px;
 }
 
 #bell, #profilee {
