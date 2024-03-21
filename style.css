@@ -94,6 +94,10 @@ button {
    
 }
 
+.project, p{
+    padding: 20px;
+}
+
 .announcements {
     grid-column: 3;
     background-color: coral;
